@@ -14,10 +14,8 @@
         </g>
     {/each}
 
-    <text class="axis-title" x={width} y={height} dy="4" dominant-baseline="hanging" text-anchor="end">
-        % of religious affiliation → 
-    </text>
-    <text class="axis-title" x={width} y={height} dy="20" dominant-baseline="hanging" text-anchor="end">
-        whether Christianity, Judaism, Buddhism, Hinduism, Islam or something else
-    </text>
+        <text class="axis-title" x={width} y={height} dy="4" dominant-baseline="hanging" text-anchor="end">
+            % of religious affiliation → 
+        </text>
 </g>
+

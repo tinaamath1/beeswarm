@@ -25,7 +25,7 @@
         flex-wrap: wrap;
         column-gap: 10px;
         row-gap: 5px; 
-        margin-bottom: 5px; 
+        margin-bottom: 10px; 
     }
 
     span{

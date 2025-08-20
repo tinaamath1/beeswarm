@@ -1,0 +1,33 @@
+.title-container{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.heading{ 
+    font-size: 1.5rem;
+    font-family: 'Georgia', serif;
+    width: 100%;
+    max-width: 800px;
+    margin: 15px 0px;
+    text-align: center;
+    font-weight: 600
+}
+
+.subheading{
+    font-family: 'Georgia', serif;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #111;
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 30px;
+}
+
+a{
+    color:#6a8bad
+}
+
+a:hover{
+    color:gray
+}

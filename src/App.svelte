@@ -7,7 +7,7 @@
   console.log(data)
 
   let width = 400, 
-    height = 700; 
+    height = 600; 
   
   const margin = {top: 20, right: 30, bottom: 40, left: 0}
 
@@ -87,7 +87,7 @@
 
 </script>
 
-<h1>Spirtuality and Religion: How do countries  compare?</h1>
+
 <Legend {colorScale} bind:hoveredContinent/>
 <div 
   class= 'chart-container' 
@@ -162,13 +162,6 @@
     font-weight: 400; 
     fill: hsla(212, 10%, 53%, 1);
     user-select: none;
-  }
-
-  h1{ 
-    font-size: 1.35rem; 
-    margin: 0 0 0.5rem 0; 
-    font-weight: 600; 
-    text-align: center
   }
 
   circle{
