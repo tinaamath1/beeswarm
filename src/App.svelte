@@ -9,7 +9,7 @@
   let width = 400, 
     height = 700; 
   
-  const margin = {top: 20, right: 30, bottom: 20, left: 0}
+  const margin = {top: 20, right: 30, bottom: 40, left: 0}
 
   $: innerWidth = width - margin.left - margin.right; 
   let innerHeight = height - margin.top - margin.bottom; 
